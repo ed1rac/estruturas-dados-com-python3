@@ -7,6 +7,7 @@ https://docs.python.org/3/library/secrets.html#module-secrets
 """
 
 import random
+import secrets
 
 lista = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
@@ -34,3 +35,10 @@ print(random.random())
 
 # gerando numeros de ponto flutuante entre 3 e 55
 print(random.uniform(3, 55))
+
+# -----
+
+# gerando tokens seguros (https://docs.python.org/3/library/secrets.html#generating-tokens)
+print(secrets.token_bytes(16))
+print(secrets.token_hex(32))
+print(secrets.token_urlsafe(10))
