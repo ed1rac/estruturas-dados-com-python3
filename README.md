@@ -1,20 +1,28 @@
-# Python 3: Algoritmos e Estruturas de Dados
+# 🐍 Python 3 — Algoritmos e Estruturas de Dados
 
-Códigos e notas de aulas do curso https://www.udemy.com/algoritmos-e-estruturas-de-dados-com-python3.
+<div align="center">
 
-*Notas de aulas estão nas wikis.*
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Estruturas](https://img.shields.io/badge/Tópicos-Pilhas_%7C_Filas_%7C_Listas_%7C_Árvores-orange?style=for-the-badge)](https://github.com/ed1rac/estruturas-dados-com-python3)
 
-## Ambiente
-- Python 3.6.2 (sem virtual env)
-- Win10 64bit
-- Atom (editor)
-- Git
+**Códigos e notas de estudo prático implementando as principais estruturas de dados clássicas em Python 3.**
+
+</div>
+
+---
+
+## 📌 Tópicos Práticos
+
+- Pilhas (Stacks) e Filas (Queues) utilizando listas e `collections.deque`
+- Listas Encadeadas (Linked Lists)
+- Árvores Binárias de Busca (BST)
+- Algoritmos de busca e percurso em estruturas dinâmicas
 
 ---
 
 ## ☕ Apoie o Projeto (Me Pague um Café / Buy Me a Coffee)
 
-Este projeto é desenvolvido com dedicação e carinho. Se este projeto foi útil para os seus estudos, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido com dedicação e carinho à disseminação do conhecimento e da tecnologia. Se ele foi útil para os seus estudos, aulas, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
 
 - ☕ **Buy Me a Coffee (Internacional / Cartão / QR Code)**:
   - 👉 **[https://buymeacoffee.com/edkallenn](https://buymeacoffee.com/edkallenn)**
