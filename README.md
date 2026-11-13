@@ -1,12 +1,11 @@
 # 🐍 Python 3 — Algoritmos e Estruturas de Dados
 
 <div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Estruturas](https://img.shields.io/badge/Tópicos-Pilhas_%7C_Filas_%7C_Listas_%7C_Árvores-orange?style=for-the-badge)](https://github.com/ed1rac/estruturas-dados-com-python3)
-
-**Códigos e notas de estudo prático implementando as principais estruturas de dados clássicas em Python 3.**
-
+  <p>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://github.com/ed1rac/estruturas-dados-com-python3"><img src="https://img.shields.io/badge/Tópicos-Pilhas_%7C_Filas_%7C_Listas_%7C_Árvores-orange?style=for-the-badge" alt="Estruturas"></a>
+  </p>
+  <p><strong>Códigos e notas de estudo prático implementando as principais estruturas de dados clássicas em Python 3.</strong></p>
 </div>
 
 ---
