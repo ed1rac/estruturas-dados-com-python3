@@ -1,0 +1,5 @@
+theme: jekyll-theme-modernist
+title: "🐍 Python 3: Algoritmos e Estruturas de Dados"
+description: "Implementações didáticas de estruturas lineares, árvores e algoritmos clássicos em Python 3."
+kramdown:
+  parse_block_html: true
